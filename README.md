@@ -58,5 +58,29 @@ Document differences and improvements.
 
 Output:
 
+Reference Image Analysis:
+
+Objects/Subject: Butterfly illustration / Product launch promotional poster
+Background: Plain white background / Modern gradient promotional background
+Lighting: Bright, clean, and evenly lit
+Style: Coloring page line art / Professional marketing poster design
+Color Combination: Black outline on white background / Blue, purple, and vibrant accent colors
+Camera Quality: High-resolution digital artwork
+
+Initial Prompt:
+
+A simple butterfly coloring page with black outlines on a white background.
+
+Refined Prompt:
+
+A high-resolution butterfly coloring page featuring detailed symmetrical wings, clean black vector outlines, white background, printable coloring-book style, centered composition, sharp lines, professional illustration quality.
+
+Generated Output:
+
+The AI-generated image closely resembled the reference image, reproducing the butterfly's shape, wing patterns, line-art style, and overall composition with improved clarity and detail.
+
+Comparison:
+
+The refined prompt produced a more accurate image with better symmetry, cleaner outlines, and closer resemblance to the original reference image compared to the initial prompt
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
